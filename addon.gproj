@@ -1,0 +1,8 @@
+GameProject {
+ ID "FrenchFOFprops"
+ GUID "60DF0541D67932D9"
+ TITLE "French FOF props"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

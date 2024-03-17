@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{39DB9D3253273C46}Assets/Structures/Signs/Large/Data/SignLarge_01_Equipement.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
