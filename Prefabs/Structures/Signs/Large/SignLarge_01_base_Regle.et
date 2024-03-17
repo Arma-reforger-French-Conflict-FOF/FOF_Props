@@ -4,14 +4,24 @@ GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" 
   MeshObject "{54969A6AAAADA251}" {
    Object "{C1749998293A79FD}Assets/Structures/Signs/Large/SignLarge_01_poles.xob"
    Materials {
-    MaterialAssignClass "{60DF0563FCE91B3A}" {
+    MaterialAssignClass "{60E3094352B086E1}" {
      SourceMaterial "SignLarge_01"
-     AssignedMaterial "{AFEA7E07980D60E3}Assets/Structures/Signs/Large/Data/SignLarge_01_Regle.emat"
+     AssignedMaterial "{AFEA7E07980D60E4}Assets/Structures/Signs/Large/Data/SignLarge_01_Regle.emat"
     }
    }
   }
   RigidBody "{54969A6AA8773997}" {
    ResponseIndex "LargeDestructible"
+  }
+  SCR_EditableEntityComponent "{60E309434ABF0541}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60E309434ABF0549}" {
+    Name "Panneau regle Regle"
+    m_Image "{ADA7E2CA1400521D}Texture import/radioprincipal.edds"
+    m_aAuthoredLabels {
+     1001
+    }
+   }
+   m_Flags PLACEABLE
   }
  }
 }

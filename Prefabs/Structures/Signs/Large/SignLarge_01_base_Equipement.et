@@ -16,7 +16,10 @@ GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" 
   SCR_EditableEntityComponent "{60DF57000F179857}" {
    m_UIInfo SCR_EditableEntityUIInfo "{60DF570025A371F6}" {
     Name "Panneau regle Munition"
-    Icon "{F7CDDA74B7B5ED25}Texture import/regleequipement.edds"
+    m_Image "{F7CDDA74B7B5ED25}Texture import/regleequipement.edds"
+    m_aAuthoredLabels {
+     1001
+    }
    }
    m_Flags PLACEABLE
   }
