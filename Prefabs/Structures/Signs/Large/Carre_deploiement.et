@@ -1,0 +1,31 @@
+GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" {
+ ID "50D67C36F4200F97"
+ components {
+  MeshObject "{54969A6AAAADA251}" {
+   Object "{CD7A4E79304AA054}Assets/Structures/Signs/Military/SignRectangle_01_75x45.xob"
+   Materials {
+    MaterialAssignClass "{60E418F7D969A485}" {
+     SourceMaterial "SignRectangle_01_75x45"
+     AssignedMaterial "{85EC0D4D096023ED}Assets/Structures/Signs/Military/Data/Sign_CommandPost_FIA_deploiement.emat"
+    }
+    MaterialAssignClass "{60E418F7D969A4F1}" {
+     SourceMaterial "SignRectangle_01_75x45_MLOD"
+     AssignedMaterial "{85EC0D4D096023ED}Assets/Structures/Signs/Military/Data/Sign_CommandPost_FIA_deploiement.emat"
+    }
+   }
+  }
+  RigidBody "{54969A6AA8773997}" {
+   ResponseIndex "LargeDestructible"
+  }
+  SCR_EditableEntityComponent "{60E418F7C89F22DF}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60E418F7C89F22DB}" {
+    Name "Panneau carre deploiement"
+    m_Image "{2BE39AE173BF4C2F}Texture import/fondpetitpanneaublanc_deploiement.edds"
+    m_aAuthoredLabels {
+     1001
+    }
+   }
+   m_Flags PLACEABLE
+  }
+ }
+}
