@@ -43,10 +43,9 @@ MatPBRMulti {
  UVTransform_2 MatUVTransform "{56883C749B177CDD}" {
   OffsetU 0.6
  }
- DetNormal_2 0
  Roughness_2 2.4
  Color_1 0.701 0.701 0.701 1
- BCR_1 "{0203B00DA76066B8}Texture import/regleprincipale1.edds"
+ BCR_1 "{5CEB994E18EDE8B7}Texture import/regleprincipale2.edds"
  NMO_1 "{5E9B5A9AF633BD94}Assets/_SharedData/Metal/ST_Steel_Battered_NMO.edds"
  UVTransform_1 MatUVTransform "{56883C764A54E9A8}" {
  }

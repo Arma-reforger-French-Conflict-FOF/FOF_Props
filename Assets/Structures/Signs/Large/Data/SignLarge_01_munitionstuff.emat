@@ -45,7 +45,7 @@ MatPBRMulti {
  }
  Roughness_2 2.4
  Color_1 0.701 0.701 0.701 1
- BCR_1 "{EE79E11CB8E4E9FB}Texture import/regleprincipal.edds"
+ BCR_1 "{946055559FFD6070}Texture import/munitonetstuff.edds"
  NMO_1 "{5E9B5A9AF633BD94}Assets/_SharedData/Metal/ST_Steel_Battered_NMO.edds"
  UVTransform_1 MatUVTransform "{56883C764A54E9A8}" {
  }
