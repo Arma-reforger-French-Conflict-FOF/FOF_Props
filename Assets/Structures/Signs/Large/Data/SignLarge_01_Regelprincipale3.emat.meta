@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9B60F1798B8BD15C}Assets/Structures/Signs/Large/Data/SignLarge_01_Regelprincipale3.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,27 @@
+GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" {
+ ID "50D67C36F4200F97"
+ components {
+  MeshObject "{54969A6AAAADA251}" {
+   Object "{C1749998293A79FD}Assets/Structures/Signs/Large/SignLarge_01_poles.xob"
+   Materials {
+    MaterialAssignClass "{60E8F80607F77CBF}" {
+     SourceMaterial "SignLarge_01"
+     AssignedMaterial "{3B23D7EC6C1403D2}Assets/Structures/Signs/Large/Data/SignLarge_01_touches.emat"
+    }
+   }
+  }
+  RigidBody "{54969A6AA8773997}" {
+   ResponseIndex "LargeDestructible"
+  }
+  SCR_EditableEntityComponent "{60E8F806743EFD7E}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60E8F806743EFD66}" {
+    Name "Panneau Regle Principale 3"
+    m_Image "{A8E3DED6153080C3}Texture import/regleprincipale3.edds"
+    m_aAuthoredLabels {
+     1001
+    }
+   }
+   m_Flags PLACEABLE
+  }
+ }
+}
