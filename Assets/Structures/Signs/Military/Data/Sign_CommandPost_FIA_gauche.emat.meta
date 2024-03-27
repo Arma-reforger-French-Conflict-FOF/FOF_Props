@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9F6D370868C5A83F}Assets/Structures/Signs/Military/Data/Sign_CommandPost_FIA_gauche.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

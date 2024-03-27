@@ -4,19 +4,19 @@ GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" 
   MeshObject "{54969A6AAAADA251}" {
    Object "{C1749998293A79FD}Assets/Structures/Signs/Large/SignLarge_01_poles.xob"
    Materials {
-    MaterialAssignClass "{60E8F80607F77CBF}" {
+    MaterialAssignClass "{60F6ED3F242E17D6}" {
      SourceMaterial "SignLarge_01"
-     AssignedMaterial "{3B23D7EC6C1403D2}Assets/Structures/Signs/Large/Data/SignLarge_01_touches.emat"
+     AssignedMaterial "{38FB8B77244BAE14}Assets/Structures/Signs/Large/Data/SignLarge_01_Radio2.emat"
     }
    }
   }
   RigidBody "{54969A6AA8773997}" {
    ResponseIndex "LargeDestructible"
   }
-  SCR_EditableEntityComponent "{60E8F806743EFD7E}" {
-   m_UIInfo SCR_EditableEntityUIInfo "{60E8F806743EFD66}" {
-    Name "Panneau Touches"
-    m_Image "{110E9D2F931D1780}Texture import/touchesbase.edds"
+  SCR_EditableEntityComponent "{60F6ED3F1929450C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60F6ED3F19294574}" {
+    Name "Panneau regle Radio 2"
+    m_Image "{6C6638566473A441}Texture import/radioprincipal2.edds"
     m_aAuthoredLabels {
      1001
     }

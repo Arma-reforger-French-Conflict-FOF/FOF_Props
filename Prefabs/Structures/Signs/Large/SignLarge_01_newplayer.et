@@ -4,19 +4,19 @@ GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" 
   MeshObject "{54969A6AAAADA251}" {
    Object "{C1749998293A79FD}Assets/Structures/Signs/Large/SignLarge_01_poles.xob"
    Materials {
-    MaterialAssignClass "{60E8F80607F77CBF}" {
+    MaterialAssignClass "{60F6ED3ECD089204}" {
      SourceMaterial "SignLarge_01"
-     AssignedMaterial "{3B23D7EC6C1403D2}Assets/Structures/Signs/Large/Data/SignLarge_01_touches.emat"
+     AssignedMaterial "{75A3D17C146E4681}Assets/Structures/Signs/Large/Data/SignLarge_01_newplayer.emat"
     }
    }
   }
   RigidBody "{54969A6AA8773997}" {
    ResponseIndex "LargeDestructible"
   }
-  SCR_EditableEntityComponent "{60E8F806743EFD7E}" {
-   m_UIInfo SCR_EditableEntityUIInfo "{60E8F806743EFD66}" {
-    Name "Panneau Touches"
-    m_Image "{110E9D2F931D1780}Texture import/touchesbase.edds"
+  SCR_EditableEntityComponent "{60F6ED3EC64F90CC}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60F6ED3EC64F9035}" {
+    Name "Panneau Nouveaux joueurs"
+    m_Image "{B918069B8269D9DF}Texture import/newplayer.edds"
     m_aAuthoredLabels {
      1001
     }

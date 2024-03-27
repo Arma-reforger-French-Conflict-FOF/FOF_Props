@@ -1,0 +1,31 @@
+GenericEntity : "{7FC0782750D4F881}Prefabs/Structures/Signs/SignsLarge_Base.et" {
+ ID "50D67C36F4200F97"
+ components {
+  MeshObject "{54969A6AAAADA251}" {
+   Object "{CD7A4E79304AA054}Assets/Structures/Signs/Military/SignRectangle_01_75x45.xob"
+   Materials {
+    MaterialAssignClass "{60F6ED3F43AC9553}" {
+     SourceMaterial "SignRectangle_01_75x45"
+     AssignedMaterial "{960B568D08E754A7}Assets/Structures/Signs/Military/Data/Sign_CommandPost_FIA_droite.emat"
+    }
+    MaterialAssignClass "{60F6ED3F43AC94B5}" {
+     SourceMaterial "SignRectangle_01_75x45_MLOD"
+     AssignedMaterial "{960B568D08E754A7}Assets/Structures/Signs/Military/Data/Sign_CommandPost_FIA_droite.emat"
+    }
+   }
+  }
+  RigidBody "{54969A6AA8773997}" {
+   ResponseIndex "LargeDestructible"
+  }
+  SCR_EditableEntityComponent "{60F6ED2904C1FAF3}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{60F6ED2904C1FAFD}" {
+    Name "Panneau carre fleche droite"
+    m_Image "{2BE39AE173BF4C2F}Texture import/fondpetitpanneaublanc_deploiement.edds"
+    m_aAuthoredLabels {
+     1001
+    }
+   }
+   m_Flags PLACEABLE
+  }
+ }
+}

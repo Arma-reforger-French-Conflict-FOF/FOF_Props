@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{38FB8B77244BAE14}Assets/Structures/Signs/Large/Data/SignLarge_01_Radio2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
